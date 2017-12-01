@@ -1,0 +1,5 @@
+body {background-color:#fff;font-weight: bold; color: #ff6633;}
+#wrap {padding: 5px;width: 210px;}
+#wrap > div {display: none;}
+button { display: inline-block; border-radius: 2px; border: 2px solid #ff6633; line-height: 0; margin: 0;padding: 7px 11px 9px 13px; font-size: 13px; font-family: "맑은고딕", "Malgun Gothic",Dotum, "돋움", sans-serif; font-weight: bold; color: #ff6633; background: #fff; height: 38px; cursor: pointer;}
+button.on {background: #ff6633;color: #fff;}
