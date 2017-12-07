@@ -1,7 +1,7 @@
 # easy_url_move
 chrome extensions
 
-html...
+...html
 <head>
 
     <link rel="stylesheet" type="text/css" href="./src/css/chupachups.css">
